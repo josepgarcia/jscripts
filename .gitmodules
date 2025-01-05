@@ -1,0 +1,3 @@
+[submodule "vendor/domain_analyzer"]
+	path = vendor/domain_analyzer
+	url = git@github.com:eldraco/domain_analyzer.git
