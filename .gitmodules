@@ -1,3 +1,12 @@
 [submodule "vendor/domain_analyzer"]
 	path = vendor/domain_analyzer
 	url = git@github.com:eldraco/domain_analyzer.git
+[submodule "vendor/nmap_automatizado"]
+	path = vendor/nmap_automatizado
+	url = git@github.com:Maalfer/Nmap_Automatizado.git
+[submodule "vendor/php-antimalware-scanner"]
+	path = vendor/php-antimalware-scanner
+	url = git@github.com:marcocesarato/PHP-Antimalware-Scanner.git
+[submodule "vendor/whatweb"]
+	path = vendor/whatweb
+	url = git@github.com:urbanadventurer/WhatWeb.git
